@@ -22,7 +22,7 @@ public class MergeSort {
     }
 
     /**
-     * 정렬된 두 개의 리스트를 하나로 합칩니다.
+     * 정렬된 두 개의 리스트를 하나로 합침
      */
     private List<Integer> merge(List<Integer> left, List<Integer> right) {
         List<Integer> result = new ArrayList<>();
